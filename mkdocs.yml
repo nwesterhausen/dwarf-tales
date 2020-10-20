@@ -1,5 +1,8 @@
 site_name: Dwarf Tales
 site_url: https://dwarffortress.nwest.wiki/
+repo_url: https://github.com/nwesterhausen/dwarf-tales
+site_author: Nicholas Westerhausen
+copyright: ©2020 Nick Westerhausen
 theme:
   name: material
   palette:
@@ -11,3 +14,11 @@ theme:
     code: Roboto Mono
   icon:
     logo: material/pickaxe
+
+plugins:
+  - search
+  - tags
+  - git-revision-date-localized
+  - img2fig
+  - awesome-pages
+  - navtitles
