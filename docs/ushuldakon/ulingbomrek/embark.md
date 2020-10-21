@@ -1,3 +1,5 @@
+![Embark location](img/ushuldakon/whisperwhips.png)
+
 ## The Embark
 
 Seven dwarves from the mountainhomes of The Lustrous Lens form Ulingbomrek and head out to sitename to raise a fortress Iklistbomrek.
@@ -5,7 +7,7 @@ Seven dwarves from the mountainhomes of The Lustrous Lens form Ulingbomrek and h
 On their banner is Gósmerlam, a symbol depicting the construction of a mighty fortress through teamwork. Specifically it shows the entryway to the fortress and the stones being used to construct it.
 
     an image of stones, two dwarves and a mountain.
-    The two dwarves are raising the mountain. 
+    The two dwarves are raising the mountain.
     The two dwarves are surrounded by the stones.
 
 ### Supplies
