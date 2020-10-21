@@ -26,6 +26,9 @@ plugins:
   - img2fig
   - awesome-pages
   - navtitles
+  - redirects:
+        redirect_maps:
+            'ushuldakon/ulingbomrek/index.md': 'ushuldakon/ulingbomrek/embark.md'
 
 markdown_extensions:
   - abbr
