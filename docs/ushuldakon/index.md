@@ -9,6 +9,6 @@ It's year 125. Wars have raged across the world for 120 years. The number of gob
 
 ![Ushul Dakon, The Realm of Omen](/img/ushuldakon/world_map_125_sm.png)
 
-The Lustrous Lens is a civilization of dwarves. We choose to embark from them.The smallest of the dwarven civilizations, seems like they could use the most influence from the semi-omniscient controller. All their wars have been against goblins, The Steamy Nightmares.
+The Lustrous Lens is a civilization of dwarves. We choose to embark from them.The smallest of the dwarven civilizations, seems like they could use the most influence from the semi-omniscient controller. All their wars have been against the goblin civilization The Steamy Nightmares.
 
-We embark with [govt-name]().
+[Ulingbomrek](ulingbomrek/) embarks to sitename.

@@ -1,24 +1,17 @@
-## Site
+## The Embark
 
-## Fortress
+Seven dwarves from the mountainhomes of The Lustrous Lens form Ulingbomrek and head out to sitename to raise a fortress Iklistbomrek.
 
-Iklistbomrek, Whisperwhips
+On their banner is Gósmerlam, a symbol depicting the construction of a mighty fortress through teamwork. Specifically it shows the entryway to the fortress and the stones being used to construct it.
 
-## Government
+    an image of stones, two dwarves and a mountain.
+    The two dwarves are raising the mountain. The two dwarves are surrounded by the stones.
 
-Ulingbomrek, The Crazed Whip
-
-## Symbol
-
-Gósmerlam, The Umbral Stones
-
-- is an image of stones, two dwarves and a mountain. The two dwarves are raising the mountain. The two dwarves are surrounded by the stones.
-
-## Supplies
+### Supplies
 
 We bring with us a couple picks, a couple axes, a spear, a few quivers, an iron anvil, some barrels of mixed drinks,some barrels of mixed meat foods, some barrels of vegetables, a few bags of seeds, a few lengths of rope, some cloth and thread, and 11 sand bags.
 
-### Live Stock
+#### Live Stock
 
 The animals we're bringing were selected by Id:
 
@@ -167,3 +160,5 @@ A short breakdown of our seven dwarves.
     Like others in her culture, she holds craftsdwarfship to be of the highest ideals and celebrates talented artisans and their masterworks, has a great deal of respect for the law, greatly prizes loyalty, sees friendship as one of the finer things in life, greatly respects artists and their works, really respects those that take the time to master a skill, deeply respects those that work hard at their labors, respects fair-dealing and fair-play, values cooperation, finds merrymaking and partying worthwhile activities, values martial prowess, values leisure time, respects commerce and values knowledge. She personally values self-control, finds the ideas of independence and freedom somewhat foolish, finds blind honesty foolish, doesn't care about nature one way or another and does not care about family one way or the other. She dreams of creating a great work of art.
 
     She does not have feelings of emotional attachment and has never felt even a moment's connection with another being. She thinks she is fairly important in the grand scheme of things. She is grateful when others help her out and tries to return favors. She has a noticeable lack of perseverance. She isn't particularly ambitious. She can handle stress. She does not go out of her way to help others. She generally acts with a narrow focus on the current activity. She needs alcohol to get through the working day. She likes working outdoors and grumbles only mildly at inclement weather.
+
+--8<--​ "translations.md"
