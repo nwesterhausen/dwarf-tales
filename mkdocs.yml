@@ -23,5 +23,6 @@ plugins:
   - navtitles
 
 markdown_extensions:
+  - abbr
   - pymdownx.tabbed
   - pymdownx.snippets
