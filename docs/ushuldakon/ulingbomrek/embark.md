@@ -1,8 +1,11 @@
+---
+title: Embark Preparations
+summary: Who is embarking, what are they bringing
+---
+
 ![Embark location](/img/ushuldakon/whisperwhips.png)
 
-## The Embark
-
-Seven dwarves from the mountainhomes of The Lustrous Lens form Ulingbomrek and head out to sitename to raise a fortress Iklistbomrek.
+## Ulingbomrek
 
 On their banner is Gósmerlam, a symbol depicting the construction of a mighty fortress through teamwork. Specifically it shows the entryway to the fortress and the stones being used to construct it.
 
@@ -10,7 +13,7 @@ On their banner is Gósmerlam, a symbol depicting the construction of a mighty f
     The two dwarves are raising the mountain.
     The two dwarves are surrounded by the stones.
 
-### Supplies
+## Supplies
 
 We bring with us a couple picks, a couple axes, a spear, a few quivers, an iron anvil, some barrels of mixed drinks,some barrels of mixed meat foods, some barrels of vegetables, a few bags of seeds, a few lengths of rope, some cloth and thread, and 11 sand bags.
 
