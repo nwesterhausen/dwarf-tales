@@ -1,4 +1,4 @@
-![Embark location](img/ushuldakon/whisperwhips.png)
+![Embark location](/img/ushuldakon/whisperwhips.png)
 
 ## The Embark
 
