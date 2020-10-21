@@ -38,6 +38,7 @@ A short breakdown of our seven dwarves.
 | Dastot Roderrathel | Warrior     | 71, F    | chert, rose gold, black pyrope, leather armor, backpacks    | turnip wine          | cave spiders    |
 | Id Sosadmistêm     | Doctor      | 78, F    | microcline, brass, clear tourmaline, worm leather, bucklers | date wine            | worms           |
 | Kol Åblelmeng      | Stoneworker | 81, M    | native copper, bismuth, yellow diamond, battle axes, flasks | persimmon wine,      | blood gnats     |
+| Sazir Zasitoshur   | Farmer      | 63, F    | bituminous coal, trifle pewter, rock crystal, crystal glass | parsnip wine         | slugs           |
 
 ### Dwarf Descriptions
 
