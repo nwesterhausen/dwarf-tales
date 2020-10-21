@@ -2,6 +2,7 @@
 
 Tales from Dwarf Fortress.
 
----
+## Worlds
 
-I plan to use this space to record interesting Dwarf Fortress stories from my playthroughs.
+### [Ushul Dakon](/ushuldakon/) "The Realm of Omen"
+
