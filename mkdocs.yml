@@ -21,3 +21,6 @@ plugins:
   - img2fig
   - awesome-pages
   - navtitles
+
+markdown_extensions:
+  - pymdownx.tabbed
