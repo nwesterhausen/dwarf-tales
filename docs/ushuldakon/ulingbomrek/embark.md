@@ -161,6 +161,6 @@ A short breakdown of our seven dwarves.
 
     She does not have feelings of emotional attachment and has never felt even a moment's connection with another being. She thinks she is fairly important in the grand scheme of things. She is grateful when others help her out and tries to return favors. She has a noticeable lack of perseverance. She isn't particularly ambitious. She can handle stress. She does not go out of her way to help others. She generally acts with a narrow focus on the current activity. She needs alcohol to get through the working day. She likes working outdoors and grumbles only mildly at inclement weather.
 
---8<--​-
+--8<---
 includes/ulingbomrek.md
 --8<---
