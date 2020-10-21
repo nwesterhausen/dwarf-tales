@@ -1,3 +1,5 @@
+## Site
+
 ## Fortress
 
 Iklistbomrek, Whisperwhips
@@ -11,6 +13,19 @@ Ulingbomrek, The Crazed Whip
 Gósmerlam, The Umbral Stones
 
 - is an image of stones, two dwarves and a mountain. The two dwarves are raising the mountain. The two dwarves are surrounded by the stones.
+
+## Supplies
+
+We bring with us a couple picks, a couple axes, a spear, a few quivers, an iron anvil, some barrels of mixed drinks,some barrels of mixed meat foods, some barrels of vegetables, a few bags of seeds, a few lengths of rope, some cloth and thread, and 11 sand bags.
+
+### Live Stock
+
+The animals we're bringing were selected by Id:
+
+- a pair of cats
+- 3 dogs (one male)
+- 6 blue peafowl (one peacock)
+- 7 turkeys (one gobbler)
 
 ## Dwarves
 
@@ -152,43 +167,3 @@ A short breakdown of our seven dwarves.
     Like others in her culture, she holds craftsdwarfship to be of the highest ideals and celebrates talented artisans and their masterworks, has a great deal of respect for the law, greatly prizes loyalty, sees friendship as one of the finer things in life, greatly respects artists and their works, really respects those that take the time to master a skill, deeply respects those that work hard at their labors, respects fair-dealing and fair-play, values cooperation, finds merrymaking and partying worthwhile activities, values martial prowess, values leisure time, respects commerce and values knowledge. She personally values self-control, finds the ideas of independence and freedom somewhat foolish, finds blind honesty foolish, doesn't care about nature one way or another and does not care about family one way or the other. She dreams of creating a great work of art.
 
     She does not have feelings of emotional attachment and has never felt even a moment's connection with another being. She thinks she is fairly important in the grand scheme of things. She is grateful when others help her out and tries to return favors. She has a noticeable lack of perseverance. She isn't particularly ambitious. She can handle stress. She does not go out of her way to help others. She generally acts with a narrow focus on the current activity. She needs alcohol to get through the working day. She likes working outdoors and grumbles only mildly at inclement weather.
-
-## Supplies
-
--- | --
-copper picks | 2
-copper battle axes | 2
-iron anvil | 1
-dwarven wine | 21
-dwarven rum | 21
-ddwarven ale | 21
-plump helmet spawn | 10
-pig tail seeds | 5
-cave wheat seeds | 5
-rock nuts | 5
-dimple cup spawn | 5
-large rate sweetbread | 15
-cave lobster | 17
-plump helmets | 15
-pig tail thread | 5
-pig tail cloth | 5
-pig tail bags | 5
-pig tail ropes | 3
-cat leather quivers | 3
-bismuth bronze spear | 1
-sand bags | 11
-eggplants | 11
-watermelons | 11
-squashes | 11
-
-### Live Stock
-
--- | --
-turkey hens | 6
-turkey gobbler | 1
-blue peahens | 5
-blue peacock | 1
-dog (f) | 2
-dog (m) | 1
-cat (f) | 1
-cat (m) | 1
