@@ -27,7 +27,7 @@ A short breakdown of our seven dwarves.
 
 ### Dwarf Descriptions
 
-=== Kadôl Zimkelunib
+=== "Kadôl Zimkelunib"
 
     "I've been well."
 
@@ -45,7 +45,7 @@ A short breakdown of our seven dwarves.
 
     She is very impolite and inconsiderate of propriety, though she finds rules of etiquette to be valuable in the abstract. She has an overinflated sense of self-worth. She has a strong tendency toward privacy. She very rarely develops negative feelings toward things. She does not trust others. She is somewhat fearful in the face of imminent danger. She is grateful when others help her out and tries to return favors. She tends not to be swayed by emotional appeals. She has little interest in joking around. She is often cheerful. She has a noticeable lack of perseverance. Her hands move frantically when she's trying to remember something. She needs alcohol to get through the working day. She likes working outdoors and grumbles only mildly at inclement weather.
 
-=== Bim Babinalåth
+=== "Bim Babinalåth"
 
     "I'm at my best under pressure."
 
@@ -63,7 +63,7 @@ A short breakdown of our seven dwarves.
 
     She prefers to be alone. She has a low sense of self-esteem. She does not trust others. She is not particularly interested in what others think of her. She is quite ambitious. She is quick to anger. She has a greedy streak. She can handle stress. She does not have a great aesthetic sensitivity, and she is conflicted by this as she values artwork and its creation. She talks very quickly when she's nervous. She needs alcohol to get through the working day. She likes working outdoors and grumbles only mildly at inclement weather.
 
-=== èzum Avuzshar
+=== "èzum Avuzshar"
 
     "I don't always do things in the most efficient way."
 
@@ -81,7 +81,7 @@ A short breakdown of our seven dwarves.
 
     He hates vows, obligations, promises and other binding elements that could restrict his life, though he is conflicted by this for more than one reason. He is very stubborn. He tends to be a little wasteful when working on projects. He isn't given to flights of fancy. He likes to brawl. He is quick to anger. He is curious and eager to learn. He does not easily fall in love and rarely develops positive sentiments, and he is troubled by this because he values romance. He has a greedy streak. He is slow to trust others. He bites his nails when he gets bored. He needs alcohol to get through the working day. He likes working outdoors and grumbles only mildly at inclement weather.
 
-=== Dastot Roderrathel
+=== "Dastot Roderrathel"
 
     "There's nothing like a good friend."
 
@@ -99,7 +99,7 @@ A short breakdown of our seven dwarves.
 
     She is prone to strong feelings of lust. She tends to consider what others think of her. She doesn't cling tightly to ideas and is open to changing her mind. She has an active sense of humor. She does not easily hate or develop negative feelings. She is generally quite confident of her abilities when undertaking specific ventures. She generally acts with a narrow focus on the current activity. She needs alcohol to get through the working day. She likes working outdoors and grumbles only mildly at inclement weather.
 
-=== Id Sosadmistêm
+=== "Id Sosadmistêm"
 
     "Don't bother trying to play on my emotions."
 
@@ -117,7 +117,7 @@ A short breakdown of our seven dwarves.
 
     She could not care less about her appearance, talents or other personal vanities. She is very polite and observes appropriate rules of decorum when possible. She dislikes receiving advice, preferring to keep her own counsel. She is rarely happy or enthusiastic, and she is conflicted by this as she values parties and merrymaking in the abstract. She does not easily fall in love and rarely develops positive sentiments. She often feels lustful. She tends not to be swayed by emotional appeals. She tends to avoid any physical confrontations, and she works to square this natural tendency with her respect of martial prowess. She is grateful when others help her out and tries to return favors. She often feels envious of others.  She has an active sense of humor. She has a greedy streak. She occasionally overindulges. She tends to form only tenuous emotional bonds with others. She generally acts with a narrow focus on the current activity.  She needs alcohol to get through the working day. She likes working outdoors and grumbles only mildly at inclement weather.
 
-=== Kol Åblelmeng
+=== "Kol Åblelmeng"
 
     "I could do without all of those creatures and that tangled greenery."
 
@@ -135,7 +135,7 @@ A short breakdown of our seven dwarves.
 
     He lives at a high-energy kinetic pace. He has an overbearing personality. He tends to make a small mess with his own possessions. He is quick to form negative views about things. He is somewhat fearful in the face of imminent danger. He prefers to present himself modestly. He occasionally overindulges, and he is troubled by this because he values self-control. He generally acts with a narrow focus on the current activity. When he's thinking hard, he has a habit of licking his lips. When he's thinking, his body becomes very still. He needs alcohol to get through the working day. He likes working outdoors and grumbles only mildly at inclement weather.
 
-=== Sazir Zasitoshur
+=== "Sazir Zasitoshur"
 
     "I feel alright."
 
