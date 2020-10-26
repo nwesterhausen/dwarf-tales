@@ -1,6 +1,6 @@
 In the fall of 125 more migrants arrived.
 
-=== �zum Rithlutdakost
+=== "�zum Rithlutdakost"
 
     "�zum Waxyfloor", Metalsmith
 
@@ -28,7 +28,7 @@ In the fall of 125 more migrants arrived.
 
     A short, sturdy creature fond of drink and industry.
 
-=== Sodel Asobcatten
+=== "Sodel Asobcatten"
 
     "Sodel Boardchannels", Fish Cleaner
 
@@ -56,7 +56,7 @@ In the fall of 125 more migrants arrived.
 
     A short, sturdy creature fond of drink and industry.
 
-=== �zum Lelgasingiz
+=== "�zum Lelgasingiz"
 
     "�zum Lushceilings", Farmer
 
@@ -84,7 +84,7 @@ In the fall of 125 more migrants arrived.
 
     A short, sturdy creature fond of drink and industry.
 
-=== Melbil Alathlemis
+=== "Melbil Alathlemis"
 
     "Melbil Boltvines", Farmer
 
@@ -112,7 +112,7 @@ In the fall of 125 more migrants arrived.
 
     A  short, sturdy creature fond of drink and industry.
 
-=== Fikod Rovodnum
+=== "Fikod Rovodnum"
 
     "Fikod Archwind", Planter
 
@@ -140,7 +140,7 @@ In the fall of 125 more migrants arrived.
 
     A short, sturdy creature fond of drink and industry.
 
-=== Vucar Ezumibruk
+=== "Vucar Ezumibruk"
 
     "Vucar Hameash", Soap Maker
 
@@ -168,7 +168,7 @@ In the fall of 125 more migrants arrived.
 
     A short, sturdy creature fond of drink and industry.
 
-=== Iden Lenshamfath
+=== "Iden Lenshamfath"
 
     "Iden Densack", Administrator
 
@@ -194,7 +194,7 @@ In the fall of 125 more migrants arrived.
 
     A short, sturdy creature fond of drink and industry.
 
-=== Fikod Stukoslibash
+=== "Fikod Stukoslibash"
 
     "Fikod Razoraxes", Peasant
 

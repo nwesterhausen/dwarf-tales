@@ -1,6 +1,6 @@
 Our first migrant wave arrived in Summer.
 
-=== Adil Febsoloz
+=== "Adil Febsoloz"
 
     "Adil Arrowworshipped", Planter
 
@@ -28,7 +28,7 @@ Our first migrant wave arrived in Summer.
 
     A short, sturdy creature fond of drink and industry.
 
-=== Datan Uzolmeng
+=== "Datan Uzolmeng"
 
     "Datan Oillashed", Farmer
 
@@ -56,7 +56,7 @@ Our first migrant wave arrived in Summer.
 
     A short, sturdy creature fond of drink and industry.
 
-=== Momuz Alathreg
+=== "Momuz Alathreg"
 
     "Momuz Boltglove", Clerk
 
@@ -86,7 +86,7 @@ Our first migrant wave arrived in Summer.
 
     A short, sturdy creature fond of drink and industry.
 
-=== Onget Uvarnish
+=== "Onget Uvarnish"
 
     "Onget Lulledtrade", Blacksmith
 
@@ -116,7 +116,7 @@ Our first migrant wave arrived in Summer.
 
     A short, sturdy creature fond of drink and industry.
 
-=== •nul Istrathalath
+=== "•nul Istrathalath"
 
     "•nul Jewelbolts", Tanner
 
@@ -144,7 +144,7 @@ Our first migrant wave arrived in Summer.
 
     A short, sturdy creature fond of drink and industry.
 
-=== Ral Lumashzon
+=== "Ral Lumashzon"
 
     "Ral Frenzyhelm", Farmer
 
@@ -172,7 +172,7 @@ Our first migrant wave arrived in Summer.
 
     A short, sturdy creature fond of drink and industry.
 
-=== Stukos Sodelmeng
+=== "Stukos Sodelmeng"
 
     "Stukos Shieldlashes", Lye Maker
 
@@ -202,7 +202,7 @@ Our first migrant wave arrived in Summer.
 
     A short, sturdy creature fond of drink and industry.
 
-=== Tobul Vabokstettad
+=== "Tobul Vabokstettad"
 
     "Tobul Orbtaxes", Miller
 
