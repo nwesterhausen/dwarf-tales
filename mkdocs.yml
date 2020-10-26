@@ -32,5 +32,6 @@ plugins:
 
 markdown_extensions:
   - abbr
-  - pymdownx.tabbed
+  - meta
   - pymdownx.snippets
+  - pymdownx.tabbed
