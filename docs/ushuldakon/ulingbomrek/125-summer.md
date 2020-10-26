@@ -13,7 +13,7 @@ We also make progress on the above-ground section of the fortress, with our two 
 
 === "Adil Febsoloz"
 
-    "Adil Arrowworshipped", Planter
+    Mountainhome Profession: Planter
 
     "I talked to my spouse. Arousing..."
 
@@ -41,7 +41,7 @@ We also make progress on the above-ground section of the fortress, with our two 
 
 === "Datan Uzolmeng"
 
-    "Datan Oillashed", Farmer
+    Mountainhome Profession: Farmer
 
     "You should always tell the truth."
 
@@ -69,7 +69,7 @@ We also make progress on the above-ground section of the fortress, with our two 
 
 === "Momuz Alathreg"
 
-    "Momuz Boltglove", Clerk
+    Mountainhome Profession: Clerk
 
     "I talked to my spouse. I feel tenderness."
 
@@ -99,7 +99,7 @@ We also make progress on the above-ground section of the fortress, with our two 
 
 === "Onget Uvarnish"
 
-    "Onget Lulledtrade", Blacksmith
+    Mountainhome Profession: Blacksmith
 
     "I feel good."
 
@@ -129,7 +129,7 @@ We also make progress on the above-ground section of the fortress, with our two 
 
 === "•nul Istrathalath"
 
-    "•nul Jewelbolts", Tanner
+    Mountainhome Profession: Tanner
 
     "A skilled warrior is a beautiful sight to behold."
 
@@ -157,7 +157,7 @@ We also make progress on the above-ground section of the fortress, with our two 
 
 === "Ral Lumashzon"
 
-    "Ral Frenzyhelm", Farmer
+    Mountainhome Profession: Farmer
 
     "I need some more excitement in my life."
 
@@ -185,7 +185,7 @@ We also make progress on the above-ground section of the fortress, with our two 
 
 === "Stukos Sodelmeng"
 
-    "Stukos Shieldlashes", Lye Maker
+    Mountainhome Profession: Lye Maker
 
     "I was near to a Seat. It's interesting."
 
@@ -215,7 +215,7 @@ We also make progress on the above-ground section of the fortress, with our two 
 
 === "Tobul Vabokstettad"
 
-    "Tobul Orbtaxes", Miller
+    Mountainhome Profession: Miller
 
     "An artisan, their materials and the tools to shape them!"
 

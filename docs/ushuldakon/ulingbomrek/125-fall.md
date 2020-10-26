@@ -15,7 +15,7 @@ We learn of many goblin pits founding in the lands near Iklistbomrek. Also our l
 
 === "�zum Rithlutdakost"
 
-    "�zum Waxyfloor", Metalsmith
+    Mountainhome Profession: Metalsmith
 
     "I get so jealous sometimes."
 
@@ -43,7 +43,7 @@ We learn of many goblin pits founding in the lands near Iklistbomrek. Also our l
 
 === "Sodel Asobcatten"
 
-    "Sodel Boardchannels", Fish Cleaner
+    Mountainhome Profession: Fish Cleaner
 
     "We should all work together."
 
@@ -71,7 +71,7 @@ We learn of many goblin pits founding in the lands near Iklistbomrek. Also our l
 
 === "�zum Lelgasingiz"
 
-    "�zum Lushceilings", Farmer
+    Mountainhome Profession: Farmer
 
     "Yes, I want more.  Is that so bad?"
 
@@ -99,7 +99,7 @@ We learn of many goblin pits founding in the lands near Iklistbomrek. Also our l
 
 === "Melbil Alathlemis"
 
-    "Melbil Boltvines", Farmer
+    Mountainhome Profession: Farmer
 
     "I could do without all of those creatures and that tangled greenery."
 
@@ -127,7 +127,7 @@ We learn of many goblin pits founding in the lands near Iklistbomrek. Also our l
 
 === "Fikod Rovodnum"
 
-    "Fikod Archwind", Planter
+    Mountainhome Profession: Planter
 
     "I feel good."
 
@@ -155,7 +155,7 @@ We learn of many goblin pits founding in the lands near Iklistbomrek. Also our l
 
 === "Vucar Ezumibruk"
 
-    "Vucar Hameash", Soap Maker
+    Mountainhome Profession: Soap Maker
 
     "People do get so carried away sometimes, but not I."He sometimes feels sad at being separated from a loved one.
 
@@ -183,7 +183,7 @@ We learn of many goblin pits founding in the lands near Iklistbomrek. Also our l
 
 === "Iden Lenshamfath"
 
-    "Iden Densack", Administrator
+    Mountainhome Profession: Administrator
 
     "There's no room for mercy in this world."He sometimes feels sad at being separated from a loved one.
 
@@ -209,7 +209,7 @@ We learn of many goblin pits founding in the lands near Iklistbomrek. Also our l
 
 === "Fikod Stukoslibash"
 
-    "Fikod Razoraxes", Peasant
+    Mountainhome Profession: Peasant
 
     "I'm good."She sometimes feels sad at being separated from a loved one.
 
