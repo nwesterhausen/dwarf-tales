@@ -1,4 +1,15 @@
-Our first migrant wave arrived in Summer.
+---
+title: Summer of 125
+description: Summary of events from Summer year 125.
+---
+
+## Fortres progress
+
+Just as we finished furnishing our bedrooms, a group of migrants arrives at our fortress. I guess it was just in time. We plan out some more bedrooms a layer above and request more beds built.
+
+We also make progress on the above-ground section of the fortress, with our two mason workshops creating jet blocks nonstop. It's 90% walled in at this point.
+
+## New Migrants
 
 === "Adil Febsoloz"
 

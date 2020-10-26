@@ -1,6 +1,6 @@
 nav:
   - embark.md
   - arrival.md
-  - migration-wave-125-summer.md
-  - migration-wave-125-fall.md
+  - 125-summer.md
+  - 125-fall.md
   - ...

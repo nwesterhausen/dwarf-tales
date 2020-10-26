@@ -5,12 +5,14 @@ summary: Story of Ulingbomrek's arrival to Iklistbomrek.
 
 --8<-- "includes/ulingbomrek.md"
 
-## Excerpt from Sazir's Record of the Settling of Iklistbomrek
+## Spring, 125
 
-125-01-15
+Upon arrival at Iklistbomrek, we decided the best place to strike the earth would be a short distance away from the spring. We would build a large walled-in section above ground to provide grazing space for our livestock and to let us safely take advantage of the fruit trees in the area.
 
-We arrived at Iklistbomrek in the early hours. Id was quick to feel important. The dwarf who kept to himself the entire way here is now ready for our undying allegiance and devotion. I want to record these events to show how it really should have been me in charge, I am more important after all.
+We dig down into the sandy top layers of earth and station our dogs at the entrance. A few layers down, we dig out an area for farming and brewing. Our farmer suggested having a few small plots each for a specific crop, so for each underground crop has its own plot. Also on this layer we dug out space to harvest sand and installed a kitchen.
 
-We stopped the wagons where the forest began to get denser and go uphill. We're a jog west of the spring that made this area possible for habitation. The original plan was to get Iklistbomrek founded here on the eastern edge of The Null Mountain range to better establish The Lustrous Lens.
+We continue downwards until we are solidly in the stone layers. The pitch black jet catches our eyes and we decided to cut blocks out of jet to use for our walls above ground. We quickly dig out a large enough area to store our supplies and then set to digging out as much jet from the walls as possible.
 
-Id has decided that the surface section of Iklistbomrek should be along the brook, with a water inlet on the north side of the walls. Ha this will be our downfall.
+We plan out space for bedrooms, poultry coops and a temple. The first logs we chop down from the surface get used to make beds, tables, and chairs for a make-shift barracks and dining room. With our miners busy carving out the fortress, the rest of us haul our supplies underground.
+
+Although it's mostly quiet in our immediate area, we have had some run-ins with honey badgers and one even ran off with some plump helmet spawn. The sooner we get our supplies safe, the better.

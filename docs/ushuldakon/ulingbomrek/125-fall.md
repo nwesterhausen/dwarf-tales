@@ -1,4 +1,17 @@
-In the fall of 125 more migrants arrived.
+---
+title: Fall of 125
+description: Summary of events from fall of 125
+---
+
+## Fortress progress
+
+More migrants arrived shortly into the summer months. We expand our bedroom orders and try to accomadate for the skills of the new dwarves.
+
+When the caravan from the moutainhome arrives, we have very little to trade and so just trade some wooden trap components we hastily made for some more meat and other food.
+
+We learn of many goblin pits founding in the lands near Iklistbomrek. Also our liason asks for a nobility recommendation. Of course our mayor recommended himself.
+
+## Migrants
 
 === "�zum Rithlutdakost"
 
