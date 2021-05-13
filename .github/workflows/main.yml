@@ -10,15 +10,11 @@ jobs:
     steps:
       - name: Checkout 
         uses: actions/checkout@v2
+      - name: Install Python
+        uses: actions/setup-python@v1
+      - name: Install Packages
+        uses: BSFishy/pip-action@v1
+        with:
+          requirements: requirements.txt
       - name: Build
-        uses: Tiryoh/actions-mkdocs@v0
-        with:
-          mkdocs_version: 'latest' # option
-          #mkdocs_version: '1.1' # option
-          requirements: 'requirements.txt' # option
-          configfile: 'mkdocs.yml' # option
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./
+        run: mkdocs gh-deploy
