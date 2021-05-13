@@ -10,6 +10,8 @@ jobs:
     steps:
       - name: Checkout 
         uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
       - name: Install Python
         uses: actions/setup-python@v1
       - name: Install Packages
@@ -17,4 +19,9 @@ jobs:
         with:
           requirements: requirements.txt
       - name: Build
-        run: mkdocs gh-deploy
+        run: mkdocs build
+      - name: Publish  
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./site
