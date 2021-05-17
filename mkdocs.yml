@@ -3,7 +3,7 @@ site_url: https://dwarffortress.nwest.wiki/
 repo_url: https://github.com/nwesterhausen/dwarf-tales
 edit_uri: edit/main/docs
 site_author: Nicholas Westerhausen
-copyright: ©2020 Nick Westerhausen
+copyright: ©2021 Nick Westerhausen
 theme:
   name: material
   palette:
@@ -20,6 +20,8 @@ theme:
 
 plugins:
   - search
+  - minify:
+      minify_html: true
   - git-revision-date-localized:
       type: timeago
       fallback_to_build_date: true
